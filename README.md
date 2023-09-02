@@ -1,7 +1,7 @@
-# Larissa Aparecida Diniz Silva
+<h1 align="center"> Larissa Aparecida Diniz Silva </h1>
 
 <div align="justify">
- <h3 align="left">Introdução</h3>
+ <h3 align="left">✨ Introdução</h3>
  <div style="display: inline_block">
     <img align="right" src="Imagens/lari.jpeg" height="350" width="250">
   <div>
@@ -18,7 +18,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  
  ##
 
-<h3 align="left"> Projetos </h3> 
+<h3 align="left">💻 Projetos </h3> 
 <div align="left">
   
  |   API  |    Descrição    |
@@ -35,7 +35,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 
  ##
  
-<h3 align="left"> 	Conhecimentos Técnicos </h3> 
+<h3 align="left">📑 	Conhecimentos Técnicos </h3> 
  <!-- Back-end / Front-end / DevOps -->
    <h4 align="left">Back-end</h4>  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
@@ -87,7 +87,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 
  ##
  
-<h3 align="left"> Contatos </h3> 
+<h3 align="left">✉️ Contatos </h3> 
  <div align="left"> 
    <a href = "mailto:contatolarissa_a_p@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatodiniz.laari@gmail.com">
