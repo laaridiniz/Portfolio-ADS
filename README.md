@@ -6,11 +6,11 @@
     <img align="right" src="Imagens/lari.jpeg" height="350" width="250">
   <div>
 Sou aluna do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, e estou cursando o 5º semestre.
-Gosto muito de inovações, desafios e de aprender coisas novas. Tenho grande facilidade em aprender e assimilar conhecimentos, e isso inclui os tecnológicos.
+Gosto muito de experimentar e aprender coisas novas, além de ser curiosa, ter grande facilidade de adaptação e de assimilar conhecimentos.
 <br><br>
-Iniciei minha vida profissional na área do Direito e depois de algum tempo optei por fazer uma transição de carreira para a área de tecnologia. Embora o curso superior tenha sido meu primeiro contato com o desenvolvimento propriamente dito, desde a infãncia sempre tive muita afinidade com tudo que tinha relação com o assunto. Aos 4 anos de idade já amava jogar num Nintendo 64 que me fez companhia até a idade adulta, e ao longo desse caminho pude ir acompanhando o crescimento dos vídeo-games e a evolução dos jogos, além de fazer parte da geração que viu de perto os computadores, a internet e os celulares ganhando um espaço cada vez maior na vida das pessoas. 
+Iniciei minha vida profissional na área do Direito e depois de algum tempo optei por fazer uma transição de carreira para a área de tecnologia. Embora o curso superior tenha sido meu primeiro contato com o desenvolvimento propriamente dito, desde a infãncia sempre tive muita afinidade com tudo que tinha relação com tecnologia. Aos 4 anos de idade já amava jogar num Nintendo 64 que me fez companhia até a vida adulta, e ao longo desse caminho pude ir acompanhando o crescimento dos vídeo-games e a evolução dos jogos, além de fazer parte da geração que viu de perto os computadores, a internet e os celulares ganhando um espaço cada vez maior na vida das pessoas. 
 <br><br>
-Atualmente sou estágiaria na Imagem Geosistemas e atuo fornecendo suporte técnico relacionado às ferramentas ArcGIS nativas e customizadas, contribuindo com o sucesso dos negócios dos nossos clientes através da tecnologia. Esse ambiente me permite desenvolver minhas habilidades em infraestrutura de redes, front-end, nuvens, integrações, bancos de dados, scripts e muito mais. 
+Atualmente sou estágiaria na Imagem Geosistemas e atuo fornecendo suporte técnico relacionado às ferramentas ArcGIS nativas e customizadas, contribuindo para o sucesso dos negócios dos nossos clientes através da tecnologia. Esse ambiente me permite desenvolver minhas habilidades em infraestrutura de redes, front-end, nuvens, integrações, bancos de dados, scripts e muito mais. 
 <br><br>
 Este repositório tem como objetivo reunir e documentar todos os projetos de API - Aprendizagem por Projetos Integrados - desenvolvidos durante minha trajetória no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. Colaborei com a construção de cinco projetos, entregues um em cada semestre desde o início da graduação. 
 <br>
@@ -29,7 +29,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  | [4° Semestre]()   | Plataforma web para gerenciamento de chamados internos   | 
  | [5° Semestre]()   | Aplicação mobile para cadastro de equipamentos públicos em campo    |
 
-> _Clique em uma opção acima para ser direcionado a pasta referente a entrega._
+> _Clique em uma das opções acima para ver mais detalhes sobre os projetos desenvolvidos._
  
 </div>
 
