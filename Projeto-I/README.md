@@ -132,4 +132,6 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 <p align="justify">Uma das maiores dificuldades do primeiro semestre de um curso normalmente é a adaptação à nova rotina. Aliado a essa necessidade, ainda enfrentávamos o período de pandemia, com atividades acadêmicas remotas, o que dificultou um pouco mais esse processo de adaptação. Por esse motivo, foi preciso desenvolver inteligência emocional para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p> 
 
+→ [Voltar ao topo](#topo)
+
 </div>
