@@ -32,7 +32,7 @@ Para criar o script em questão foram utilizadas as bibliotecas Requests, Beauti
 
 * [Clonagem](https://www.youtube.com/watch?v=h6XxaiR124c)
 
-* [Interface para clonagem](https://clipchamp.com/watch/6pcngJu0vhh)
+* [Interface para clonagem](https://www.youtube.com/watch?v=l5Hon-ichZ8)
 
 Para acessar o GitHub da equipe TechDrivers, clique [aqui](https://github.com/TechDriversFatec/TechDrivers).
 
