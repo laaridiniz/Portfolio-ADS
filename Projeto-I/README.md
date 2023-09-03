@@ -3,14 +3,14 @@
 <br id="topo">
 
 <p align="center">
-  <a href="#projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#telas">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#tecnologias">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#dev">Contribuições pessoais</a>
+  <a href="about">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="demo">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="requirements">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="tech">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="dev">Contribuições pessoais</a>
 </p>
 
-<div id="#projeto">
+<div id="about">
 
 ## Sobre o projeto
 
@@ -24,15 +24,19 @@ Para criar o script em questão foram utilizadas as bibliotecas Requests, Beauti
 
 </div>
 
-<div id="#telas">
+<div id="demo">
 
 ## Demonstração
 
-[Em construção]
+* [Página Web](https://www.youtube.com/watch?v=DV-dKaON3MU)
+
+* [Clonagem](https://www.youtube.com/watch?v=h6XxaiR124c)
+
+* [Interface para clonagem](https://clipchamp.com/watch/6pcngJu0vhh)
 
 </div>
 
-<div id="#requisitos">
+<div id="requirements">
 
 ## Requisitos
 
@@ -50,7 +54,7 @@ b) Não funcionais
 
 </div>
 
-<div id="#tecnologias">
+<div id="tech">
 
 ## Tecnologias utilizadas
 
