@@ -28,6 +28,18 @@ Para criar o script em questão foram utilizadas as bibliotecas Requests, Beauti
 
 ## Demonstração
 
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/8730bf52-186f-43a8-ba0d-fae5ff7ba764
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/48572cdf-51d8-45e9-b4c2-7907bde0c5c0
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/bccd3881-1be0-4f13-abec-9d3a38fe3692
+
+
+Para acessar os tutoriais completos em vídeo, basta clicar nos links abaixo:
+
 * [Página Web](https://www.youtube.com/watch?v=DV-dKaON3MU)
 
 * [Clonagem](https://www.youtube.com/watch?v=h6XxaiR124c)
