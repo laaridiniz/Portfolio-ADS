@@ -18,7 +18,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 
  ##
 
- <h3 align="left"> Cursos </h3> 
+ <h3 align="left"> 📖 Cursos </h3> 
 <div align="left">
   
   
