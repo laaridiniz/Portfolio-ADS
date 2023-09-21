@@ -15,6 +15,32 @@ Atualmente sou estágiaria na Imagem Geosistemas e atuo fornecendo suporte técn
 Este repositório tem como objetivo reunir e documentar todos os projetos de API - Aprendizagem por Projetos Integrados - desenvolvidos durante minha trajetória no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. Colaborei com a construção de cinco projetos, entregues um em cada semestre desde o início da graduação. 
 <br>
  </div>
+
+ ##
+
+ <h3 align="left"> Cursos </h3> 
+<div align="left">
+  
+  
+ |   Curso  |    Instituição    |
+ | :------:      | :------: |
+ | Iniciação profissional em lógica de programação | SENAI-MS |
+ | Women Going Digital | Câmara de Comércio e Indústria Brasil-Alemanha (AHK) |
+ | IT Essentials - PC Hardware & Software | Cisco Learning Network |
+ | Introdução ao Git e ao GitHub | Digital Innovation One |
+ | Aprender a aprender: técnicas para seu autodesenvolvimento | Alura |
+ | Lógica de programação: comece em lógica com  o jogo Pong e JavaScript | Alura |
+ | Lógica de programação: laços e listas com JavaScript | Alura |
+ | Modelagem de banco de dados relacional: entendendo SQL | Alura |
+ | Linux I: conhecendo e utilizando o terminal | Alura |
+ | Arquitetura de computadores: por trás de como seu programa funciona | Alura |
+ | HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | Alura |
+ | HTML e CSS: Classes, posicionamento e Flexbox | Alura |
+ | Performing ArcGIS Online Administrator Tasks | Esri |
+ | Creating and Sharing GIS Content Using ArcGIS Online | Esri |
+ | Getting Started with ArcGIS Pro | Esri |
+ | ArcGIS Online Basics | Esri |
+ | Configuring an ArcGIS Online Organization | Esri |
  
  ##
 
