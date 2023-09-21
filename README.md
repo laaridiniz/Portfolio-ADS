@@ -24,23 +24,25 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
   
  |   Curso  |    Instituição    |
  | :------:      | :------: |
- | Iniciação profissional em lógica de programação | SENAI-MS |
- | Women Going Digital | Câmara de Comércio e Indústria Brasil-Alemanha (AHK) |
- | IT Essentials - PC Hardware & Software | Cisco Learning Network |
- | Introdução ao Git e ao GitHub | Digital Innovation One |
- | Aprender a aprender: técnicas para seu autodesenvolvimento | Alura |
- | Lógica de programação: comece em lógica com  o jogo Pong e JavaScript | Alura |
- | Lógica de programação: laços e listas com JavaScript | Alura |
- | Modelagem de banco de dados relacional: entendendo SQL | Alura |
- | Linux I: conhecendo e utilizando o terminal | Alura |
- | Arquitetura de computadores: por trás de como seu programa funciona | Alura |
- | HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags | Alura |
- | HTML e CSS: Classes, posicionamento e Flexbox | Alura |
+ | [Iniciação profissional em lógica de programação]() | SENAI-MS |
+ | [Women Going Digital](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva.png) | Câmara de Comércio e Indústria Brasil-Alemanha (AHK) |
+ | [IT Essentials - PC Hardware & Software](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/NetAcad%20Learning%20Transcript.pdf) | Cisco Learning Network |
+ | [Introdução ao Git e ao GitHub](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Certificado%20-%20Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20Github.pdf) | Digital Innovation One |
+ | [Primeiros passos para começar a programar](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Certificado%20-%20Primeiros%20passos%20para%20come%C3%A7ar%20a%20programar.pdf) | Digital Innovation One |
+ | [Aprender a aprender: técnicas para seu autodesenvolvimento](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20Aprender%20a%20aprender_%20t%C3%A9cnicas%20para%20seu%20autodesenvolvimento%20-%20Alura.pdf) | Alura |
+ | [Lógica de programação: comece em lógica com  o jogo Pong e JavaScript](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20comece%20em%20l%C3%B3gica%20com%20o%20jogo%20Pong%20e%20JavaScript%20-%20Alura.pdf) | Alura |
+ | [Lógica de programação: laços e listas com JavaScript](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20L%C3%B3gica%20de%20programa%C3%A7%C3%A3o_%20la%C3%A7os%20e%20listas%20com%20JavaScript%20-%20Alura.pdf) | Alura |
+ | [Modelagem de banco de dados relacional: entendendo SQL](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20Modelagem%20de%20banco%20de%20dados%20relacional_%20entendendo%20SQL%20-%20Alura.pdf) | Alura |
+ | [Linux I: conhecendo e utilizando o terminal](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20Linux%20I_%20conhecendo%20e%20utilizando%20o%20terminal%20-%20Alura.pdf) | Alura |
+ | [Arquitetura de computadores: por trás de como seu programa funciona](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20Arquitetura%20de%20computadores_%20por%20tr%C3%A1s%20de%20como%20seu%20programa%20funciona%20-%20Alura.pdf) | Alura |
+ | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20HTML%20e%20CSS_%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags%20-%20Alura.pdf) | Alura |
+ | [HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20HTML%20e%20CSS_%20Classes%2C%20posicionamento%20e%20Flexbox%20-%20Alura.pdf) | Alura |
  | Performing ArcGIS Online Administrator Tasks | Esri |
  | Creating and Sharing GIS Content Using ArcGIS Online | Esri |
- | Getting Started with ArcGIS Pro | Esri |
+ | [Getting Started with ArcGIS Pro](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Getting%20Started%20with%20ArcGIS%20Pro_Certificate_05222022.pdf) | Esri |
  | ArcGIS Online Basics | Esri |
  | Configuring an ArcGIS Online Organization | Esri |
+ | [Support Services: Customer Service Sessions](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Support%20Services_%20Customer%20Service%20Sessions_Certificate_03172022.pdf) | Esri |
  
  ##
 
