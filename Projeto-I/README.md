@@ -74,25 +74,17 @@ b) Não funcionais
 
 Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
-<h4 align="left">Back-end</h4>  
+| Tecnologia | Aplicação |
+|:--------:|:-----------:|
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> | HTML (HyperText Markup Language) é uma linguagem de marcação que foi aplicada na estruturação e exibição do conteúdo em páginas da web. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  | CSS é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foi utilizado para a estilização do site. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | JavaScript é uma linguagem de estilo utilizada para customizar a apresentação e o layout dos documentos HTML que compõem o projeto. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | Git é um sistema de controle de versão de código aberto que foi empregado para controlar o histórico de alterações de arquivos do projeto. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a> | GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão que usa o Git. Foi utilizado para a hospedagem do código e para colaboração entre os integrantes da equipe durante o desenvolvimento da aplicação. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  | Python é uma linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade. Foi utilizado para desenvolver a lógica do site (back-end).| 
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | Figma é um editor gráfico de vetor e foi utilizado para prototipagem das telas que compõem o projeto. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | Visual Studio Code é um editor de código aberto altamente extensível. Foi ultilizado para o desenvolvimento do código-fonte. |
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-
-<h4 align="left">Front-end</h4> 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-<h4 align="left">Versionamento</h4> 
-
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-<h4 align="left">Prototipagem e desenvolvimento</h4> 
-
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode)](https://skillicons.dev)
-
-<h4 align="left">Comunicação</h4> 
-
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 
 → [Voltar ao topo](#topo)
 
