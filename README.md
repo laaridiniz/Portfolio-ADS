@@ -48,7 +48,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  |   API  |    Descrição    |
  | :------:      | :------: |
  | [1° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-I)   | Website para armazenar os projetos desenvolvidos pelos alunos da FATEC |
- | 2° Semestre   | Aplicação desktop para centralizar troca de informações entre empresa e clientes  | 
+ | [2° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-II)   | Aplicação desktop para centralizar troca de informações entre empresa e clientes  | 
  | 3° Semestre   | Aplicação web para cálculo de distância de pouso de aeronaves     | 
  | 4° Semestre   | Plataforma web para gerenciamento de chamados internos   | 
  | 5° Semestre   | Aplicação mobile para cadastro de equipamentos públicos em campo    |
