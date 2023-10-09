@@ -98,43 +98,31 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 #### Hard Skills
 
-1. **Programação em Python:**
+1. **Programação em Python:** Sei fazer com ajuda;
 
-<p align="justify">Para automatizar a clonagem de repositórios e a raspagem de dados utilizamos a linguagem Python. Por ter sido meu primeiro contato com uma linguagem de programação, pude aplicar os principais conceitos de algoritmos e de lógica de programação na resolução de um problema real a partir da manipulação de strings, do uso de bibliotecas específicas e da conexão dessa lógica com a parte visual da página.</p>
+2. **Desenvolvimento Web (HTML/CSS):** Sei fazer com auxílio de consultas;
 
-2. **Desenvolvimento Web (HTML/CSS):**
+3. **Controle de Versão (Git/GitHub):** Sei fazer com autonomia;
 
-<p align="justify">A criação do website envolveu a construção de páginas web com HTML para estruturação e CSS para estilização. Isso proporcionou experiência no desenvolvimento de interfaces de usuário atraentes e funcionais.</p>
+4. **Organização de Dados:** Sei fazer com autonomia;
 
-3. **Controle de Versão (Git/GitHub):**
+5. **Criação de Protótipos Navegáveis com Figma:** Sei fazer com autonomia;
 
-<p align="justify">A clonagem de repositórios do GitHub e o upload dos projetos demandaram o uso eficiente de ferramentas de versionamento de código. Essa necessidade me permitiu criar maior familiaridade com o uso do terminal, a criação de commits, a resolução de conflitos de código e a junção de códigos.</p>
+6. **Conceitos iniciais de arquitetura de software:** Sei fazer com ajuda;
 
-4. **Organização de Dados:**
-
-<p align="justify">A organização dos projetos por curso, semestre, ano e turma exigiu que fossem exercitadas habilidades de estruturação de dados, de maneira a facilitar o acesso a essas informações.</p>
+7. **Conceitos aplicados de UX Designer:** Sei fazer com autonomia.
 
 #### Soft Skills  
 
-1. **Comunicação:**
+1. **Comunicação:** <p align="justify">Foi essencial manter uma comunicação clara com a equipe e com o parceiro acadêmico para entender quais eram os requisitos a serem cumpridos e as expectativas dele em relação às entregas. Essa comunicação também foi muito necessária nos momentos em que precisamos reportar ao parceiro acadêmico os detalhes do progresso do projeto, bem como os desafios encontrados ao longo do caminho.</p> 
 
-<p align="justify">Desde o kick-off até a entrega final, foi essencial manter uma comunicação clara com a equipe e com o parceiro acadêmico para entender quais eram os requisitos a serem cumpridos e as expectativas dele em relação às entregas. Essa comunicação também foi muito necessária nos momentos em que precisamos reportar ao parceiro acadêmico os detalhes do progresso do projeto, bem como os desafios encontrados ao longo do caminho.</p>
+2. **Colaboração e Trabalho em Equipe:** <p align="justify">O alinhamento com os membros da equipe foi fundamental para garantir que o projeto final atendesse a necessidade do parceiro acadêmico e que as informações fossem organizadas de forma adequada, principalmente porque nunca tínhamos trabalhado com metodologias ágeis, não tínhamos muita convivência um com o outro, além de a maioria dos membros do grupo ter pouco conhecimento técnico e personalidades muito distintas. Mesmo com todas essas variáveis, conseguimos nos apoiar e entregar um projeto que atendeu a necessidade do parceiro acadêmico com êxito. </p> 
 
-2. **Colaboração e Trabalho em Equipe:**
+3. **Resolução de Problemas:** <p align="justify">Em todas as fases do projeto tivemos que lidar com algumas dificuldades, fossem elas técnicas ou comportamentais. Esses obstáculos exigiram que todos os membros da equipe desenvolvessem habilidades sólidas de resolução de problemas, principalmente para identificar erros e otimizar processos.</p> 
 
-<p align="justify">O alinhamento com os membros da equipe foi fundamental para garantir que o projeto final atendesse a necessidade do parceiro acadêmico e que as informações fossem organizadas de forma adequada.</p>
+4. **Gerenciamento do Tempo:** <p align="justify">Precisamos nos organizar para lidar com várias tarefas, desde a criação dos protótipos até a entrega final, principalmente para definir as prioridades e cumprir os prazos previamente determinados.</p> 
 
-3. **Resolução de Problemas:**
-
-<p align="justify">Em todas as fases do projeto tivemos que lidar com algumas dificuldades, fossem elas técnicas ou comportamentais. Esses obstáculos exigiram que todos os membros da equipe desenvolvessem habilidades sólidas de resolução de problemas, principalmente para identificar erros e otimizar processos.</p>
-
-4. **Gerenciamento do Tempo:**
-
-<p align="justify">Lidar com várias tarefas desde a criação dos protótipos até a entrega final demandou uma gestão eficiente do tempo, principalmente para definir as prioridades e cumprir os prazos previamente determinados.</p>
-
-5. **Inteligência emocional:**
-
-<p align="justify">Uma das maiores dificuldades do primeiro semestre de um curso normalmente é a adaptação à nova rotina. Aliado a essa necessidade, ainda enfrentávamos o período de pandemia, com atividades acadêmicas remotas, o que dificultou um pouco mais esse processo de adaptação. Por esse motivo, foi preciso desenvolver inteligência emocional para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p> 
+5. **Inteligência emocional:** <p align="justify">Uma das maiores dificuldades do primeiro semestre de um curso normalmente é a adaptação à nova rotina. Aliado a essa necessidade, ainda enfrentávamos o período de pandemia, com atividades acadêmicas remotas, o que dificultou um pouco mais esse processo de adaptação. Por esse motivo, foi preciso desenvolver inteligência emocional para lidar com as demandas pessoais de cada um e para alinhar as dificuldades de cada integrante sem comprometer a qualidade da tomada de decisões e do desenvolvimento do projeto.</p> 
 
 → [Voltar ao topo](#topo)
 
