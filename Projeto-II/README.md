@@ -14,7 +14,9 @@
 
 ## Sobre o projeto
 
-<p align="justify"></p>
+<p align="justify">O projeto teve como objetivo criar uma mensageria, ou seja, uma aplicação que centralizasse toda troca de informação realizada entre a empresa e o cliente. Isso porque a principal necessidade da empresa parceira era poder organizar todas as informações recebidas dos seus clientes, principalmente aquelas que influenciariam diretamente nos serviços prestados.
+<br><br>
+Essa aplicação foi implementada por meio da linguagem Java (Desktop), a partir de um modelo de banco de dados relacional construído com a tecnologia MySQL. Por meio dela, a empresa seria capaz de se comunicar com os seus clientes, individualmente ou em grupos, em um só lugar, além de ter a possibilidade de visualizar o histórico dessa comunicação e de gerar relatórios dessas interações.</p>
 
 → [Voltar ao topo](#topo)
 
