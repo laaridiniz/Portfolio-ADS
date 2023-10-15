@@ -38,13 +38,18 @@ Para acessar o GitHub da equipe TechDrivers, clique [aqui](https://github.com/Te
 
 a) Funcionais
 
-* Clonagem automática dos repositórios; 
-* Indexação dos projetos em uma página web;
+* Armazenamento em banco de dados relacional;
+* Área para cadastro de usuários e projetos;
+* Diferentes níveis de acesso (administrador, suporte e usuário comum);
+* Sistema de relatórios de uso; 
+* Possibilidade de envio de mensagens individuais e para grupos determinados;
 * Documentação de uso da aplicação.
 
 b) Não funcionais
 
-* Página de caráter institucional.
+* Atualização automática de dados de acordo com possíveis alterações realizadas pelos usuários;
+* Máscaras nos campos de inserção de dados;
+* Possibilidade de gerenciamento de usuários e projetos.
 
 → [Voltar ao topo](#topo)
 
@@ -58,12 +63,12 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 | Tecnologia | Aplicação |
 |:--------:|:-----------:|
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> | Java |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> | Java é uma linguagem de programação multiplataforma, orientada a objetos e centrada em rede, utilizada para construir tanto o visual quanto a lógica por trás do funcionamento da aplicação desenvolvida. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | Git é um sistema de controle de versão de código aberto que foi empregado para controlar o histórico de alterações de arquivos do projeto. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a> | GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão que usa o Git. Foi utilizado para a hospedagem do código e para colaboração entre os integrantes da equipe durante o desenvolvimento da aplicação. |
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | MySQL |
-| <img width="50 rem" src="Images/Apache_NetBeans_Logo.svg.png" /> | Netbeans |
-| <img width="50 rem" src="Images/azure-devops.png" /> | Azure DevOps |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | MySQL é um sistema de gerenciamento de banco de dados (SGBD) que utiliza a linguagem SQL como interface. A partir dele, foi possível registrar, armazenar e tratar todos os dados necessários para o bom funcionamento da aplicação. |
+| <img width="50 rem" src="Images/Apache_NetBeans_Logo.svg.png" /> | O Apache Netbeans é uma IDE responsável por fornecer um ambiente de desenvolvimento integrado gratuito e de código aberto para desenvolvedores de software em Java. |
+| <img width="50 rem" src="Images/azure-devops.png" /> | O Azure DevOps é um servidor da Microsoft que fornece as ferramentas necessárias para fazer o controle de versão, a geração de relatórios, o gerenciamento de requisitos e de projetos, as compilações automatizadas e os testes necessários no desenvolvimento de softwares. |
 
 
 → [Voltar ao topo](#topo)
