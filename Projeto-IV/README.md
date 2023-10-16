@@ -126,7 +126,9 @@ Essa experiência me permitiu muita troca com os demais componentes do grupo e m
 
 9. **Conceitos de arquitetura de software:** Sei fazer com ajuda;
 
-10. **Conceitos aplicados de UX Designer:** Sei fazer com autonomia.
+10. **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;
+
+11. **Deployment:** Sei fazer com ajuda.
 
 #### Soft Skills  
 
