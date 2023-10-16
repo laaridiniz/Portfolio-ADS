@@ -99,7 +99,9 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 3. **Resolução de Problemas:** <p align="justify">Ao longo do projeto tivemos que lidar com algumas dificuldades, de ordem técnica e comportamental. Esses obstáculos foram essenciais para que eu pudesse, juntamente com os demais membros do grupo, encontrar soluções favoráveis para a equipe e para o cliente.</p> 
 
-4. **Gerenciamento do Tempo:** <p align="justify">Precisamos nos organizar para lidar com várias tarefas, desde a criação dos protótipos até a entrega final, principalmente para definir as prioridades e cumprir os prazos previamente determinados. Como tínhamos apenas três sprints até a entrega final, também tivemos que ser mais objetivos nas entregas, tendo em vista que tínhamos menos espaço para correção de erros.</p> 
+4. **Gerenciamento do Tempo:** <p align="justify">Precisamos nos organizar para lidar com várias tarefas, desde a criação dos protótipos até a entrega final, principalmente para definir as prioridades e cumprir os prazos previamente determinados. Como tínhamos apenas três sprints até a entrega final, também tivemos que ser mais objetivos nas entregas, tendo em vista que tínhamos menos espaço para correção de erros.</p>
+
+5. **Organização:** <p align="justify">Para garantir que as entregas acontecessem dentro dos prazos estipulados, precisei saber priorizar e identificar em quais momentos as tarefas seriam realizadas e ser muito organizada para conseguir transformar um planejamento abstrato em algo concreto, com um resultado de sucesso. Além da questão de definir tarefas e delegar cada uma delas para as pessoas certas, também precisei ser vigilante e acompanhar cuidadosamente o desenvolvimento de cada uma dessas tarefas tendo em mente tudo o que definimos no product backlog.</p>
 
 
 → [Voltar ao topo](#topo)
