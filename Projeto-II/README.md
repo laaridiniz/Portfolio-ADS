@@ -63,12 +63,12 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 | Tecnologia | Aplicação |
 |:--------:|:-----------:|
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> | Java é uma linguagem de programação multiplataforma, orientada a objetos e centrada em rede, utilizada para construir tanto o visual quanto a lógica por trás do funcionamento da aplicação desenvolvida. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> | Java é uma linguagem de programação multiplataforma, orientada a objetos e centrada em rede. Foi utilizada para construir tanto o visual quanto a lógica por trás do funcionamento da aplicação desenvolvida. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | Git é um sistema de controle de versão de código aberto que foi empregado para controlar o histórico de alterações de arquivos do projeto. |
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> </a> | GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão que usa o Git. Foi utilizado para a hospedagem do código e para colaboração entre os integrantes da equipe durante o desenvolvimento da aplicação. |
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> | GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão que usa o Git. Foi utilizado para a hospedagem do código e para colaboração entre os integrantes da equipe durante o desenvolvimento da aplicação. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | MySQL é um sistema de gerenciamento de banco de dados (SGBD) que utiliza a linguagem SQL como interface. A partir dele, foi possível registrar, armazenar e tratar todos os dados necessários para o bom funcionamento da aplicação. |
-| <img width="50 rem" src="Images/Apache_NetBeans_Logo.svg.png" /> | O Apache Netbeans é uma IDE responsável por fornecer um ambiente de desenvolvimento integrado gratuito e de código aberto para desenvolvedores de software em Java. |
-| <img width="50 rem" src="Images/azure-devops.png" /> | O Azure DevOps é um servidor da Microsoft que fornece as ferramentas necessárias para fazer o controle de versão, a geração de relatórios, o gerenciamento de requisitos e de projetos, as compilações automatizadas e os testes necessários no desenvolvimento de softwares. |
+| <img width="50 rem" src="Images/Apache_NetBeans_Logo.svg.png" /> | Foi utilizada a IDE Apache Netbeans para desenvolver o código em Java, tendo em vista que essa aplicação fornece um ambiente de desenvolvimento integrado gratuito e de código aberto. |
+| <img width="50 rem" src="Images/azure-devops.png" /> | A equipe também utilizou o Azure DevOps, servidor da Microsoft que fornece ferramentas para controle de versão, geração de relatórios, gerenciamento de requisitos e de projetos, compilações automatizadas e testes necessários no desenvolvimento de softwares. |
 
 
 → [Voltar ao topo](#topo)
@@ -79,14 +79,27 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 ## Contribuições pessoais
 
-<p align="justify"></p>
+<p align="justify">Durante o desenvolvimento desse projeto, atuei como Product Owner, desempenhando um papel mais voltado para o alinhamento entre os interesses do cliente, definição das funcionalidades do produto e priorização dos itens do Backlog. Na primeira sprint minha atuação foi focada na criação do Backlog e das User Stories, além da validação dos requisitos e entregas com o cliente. Já na segunda e terceira sprint, tive a oportunidade de atuar ainda no desenvolvimento back-end, implementando algumas melhorias no sistema. Ao longo do tempo, contribui também para a documentação do projeto antes da entrega final.</p>
 
 #### Hard Skills
 
+1. **Programação em Java:** Sei fazer com ajuda;
 
+2. **Modelagem de dados** Sei fazer com ajuda;
+
+3. **Controle de Versão (Git/GitHub):** Sei fazer com auxílio de consultas;
+
+4. **Manuseio de banco de dados SQL** Sei fazer com auxílio de consultas.
 
 #### Soft Skills  
 
+1. **Comunicação:** <p align="justify">Foi essencial manter uma comunicação clara com o cliente, para entender quais eram as necessidades que precisavam ser atendidas com o projeto, alinhar as expectativas dele em relação às entregas, reportar os detalhes do progresso do projeto, bem como os desafios encontrados ao longo do caminho. A comunicação com os membros da equipe também foi fundamental para que pudéssemos sanar todas as dúvidas, alinhar todos os requisitos, definir o que poderia ou não ser desenvolvido e fazer entregas de valor para o cliente em todas as sprints.</p> 
+
+2. **Colaboração e Trabalho em Equipe:** <p align="justify">O alinhamento com os membros da equipe foi fundamental para garantir que o projeto final atendesse a necessidade do cliente e que as informações fossem organizadas de forma adequada, principalmente porque era a primeira vez que estávamos trabalhado com uma empresa real e com tecnologias como Java, Azure DevOps e MySQL. Como eu também nunca tinha atuado como Product Owner antes, precisei de orientação dos professores e do apoio dos demais membros do grupo para poder desenvolver algumas melhorias previstas no backlog.</p> 
+
+3. **Resolução de Problemas:** <p align="justify">Ao longo do projeto tivemos que lidar com algumas dificuldades, de ordem técnica e comportamental. Esses obstáculos foram essenciais para que eu pudesse, juntamente com os demais membros do grupo, encontrar soluções favoráveis para a equipe e para o cliente.</p> 
+
+4. **Gerenciamento do Tempo:** <p align="justify">Precisamos nos organizar para lidar com várias tarefas, desde a criação dos protótipos até a entrega final, principalmente para definir as prioridades e cumprir os prazos previamente determinados. Como tínhamos apenas três sprints até a entrega final, também tivemos que ser mais objetivos nas entregas, tendo em vista que tínhamos menos espaço para correção de erros.</p> 
 
 
 → [Voltar ao topo](#topo)
