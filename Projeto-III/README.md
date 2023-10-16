@@ -24,7 +24,7 @@ Para alcançar esse resultado, a equipe utilizou a metodologia Scrum, conhecido 
 
 <div id="demo">
 
-## Demonstração
+## Resultado final
 
 
 https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/1081bb00-622e-4d69-86cc-f2cf5c32849e
