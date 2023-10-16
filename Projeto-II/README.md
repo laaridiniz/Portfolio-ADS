@@ -69,7 +69,7 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | MySQL é um sistema de gerenciamento de banco de dados (SGBD) que utiliza a linguagem SQL como interface. A partir dele, foi possível registrar, armazenar e tratar todos os dados necessários para o bom funcionamento da aplicação. |
 | <img width="50 rem" src="Images/Apache_NetBeans_Logo.svg.png" /> | Foi utilizada a IDE Apache Netbeans para desenvolver o código em Java, tendo em vista que essa aplicação fornece um ambiente de desenvolvimento integrado gratuito e de código aberto. |
 | <img width="50 rem" src="Images/azure-devops.png" /> | A equipe também utilizou o Azure DevOps, servidor da Microsoft que fornece ferramentas para controle de versão, geração de relatórios, gerenciamento de requisitos e de projetos, compilações automatizadas e testes necessários no desenvolvimento de softwares. |
-
+| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /> | O Slack é um software de comunicação de equipes com suporte a canais, conversas privadas e integração com serviços externos que foi utilizado para comunicação com o cliente. |
 
 → [Voltar ao topo](#topo)
 
@@ -102,6 +102,8 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 4. **Gerenciamento do Tempo:** <p align="justify">Precisamos nos organizar para lidar com várias tarefas, desde a criação dos protótipos até a entrega final, principalmente para definir as prioridades e cumprir os prazos previamente determinados. Como tínhamos apenas três sprints até a entrega final, também tivemos que ser mais objetivos nas entregas, tendo em vista que tínhamos menos espaço para correção de erros.</p>
 
 5. **Organização:** <p align="justify">Para garantir que as entregas acontecessem dentro dos prazos estipulados, precisei saber priorizar e identificar em quais momentos as tarefas seriam realizadas e ser muito organizada para conseguir transformar um planejamento abstrato em algo concreto, com um resultado de sucesso. Além da questão de definir tarefas e delegar cada uma delas para as pessoas certas, também precisei ser vigilante e acompanhar cuidadosamente o desenvolvimento de cada uma dessas tarefas tendo em mente tudo o que definimos no product backlog.</p>
+   
+6. **Planejamento:** <p align="justify">Como Product Owner precisei fazer um bom gerenciamento do backlog do produto e das expectativas do cliente em relação ao desenvolvimento para que a equipe fizesse entregas de valor em todas as sprints.</p>
 
 
 → [Voltar ao topo](#topo)
