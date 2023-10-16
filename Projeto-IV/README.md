@@ -24,8 +24,18 @@ Para alcançar esse resultado, a equipe utilizou a metodologia Scrum, conhecido 
 
 <div id="demo">
 
-## Demonstração
+## Resultado final
 
+Para visualizar o vídeo que ilustra o fluxo do usuário padrão, clique [aqui](https://clipchamp.com/watch/8KruCz3Wpls).
+
+Para acessar o vídeo que demonstra o fluxo do usuário Diretor, clique [aqui](https://clipchamp.com/watch/tK9AXBtIvTg?utm_source=share&utm_medium=social&utm_campaign=watch)
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/8f2ea4a7-45aa-4207-9fa5-5028e040a064
+
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/039ce40f-3eef-41ab-9ba6-c479d54748d5
 
 
 Para acessar o GitHub da equipe Peônia, clique [aqui](https://github.com/peonia-api).
@@ -75,7 +85,7 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | Figma é um editor gráfico de vetor e foi utilizado para prototipagem das telas que compõem o projeto. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> | Canva é uma plataforma de design gráfico que foi utilizada para criar as apresentações e demais conteúdos visuais necessários ao longo do desenvolvimento no projeto.|
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> | Visual Studio Code é um editor de código aberto altamente extensível. Foi ultilizado para o desenvolvimento do código-fonte. |
-| <img width="50 rem" src="Images/typeorm.png" /> | O TypeORM é um framework de mapeamento objeto-relacional que aproxima o paradigma de desenvolvimento de aplicações orientadas a objetos ao paradigma do banco de dados relacional. Foi utilizado para definir como os dados são mapeados entre os ambientes e como são acessados e gravados. |
+| <img width="50 rem" src="../Imagens/typeorm.png" /> | O TypeORM é um framework de mapeamento objeto-relacional que aproxima o paradigma de desenvolvimento de aplicações orientadas a objetos ao paradigma do banco de dados relacional. Foi utilizado para definir como os dados são mapeados entre os ambientes e como são acessados e gravados. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /> | PostgreSQL é um sistema de gerenciamento de banco de dados (SGBD) que utiliza a linguagem SQL como interface. A partir dele, foi possível registrar, armazenar e tratar todos os dados necessários para o bom funcionamento da aplicação. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> | O Google Cloud Platform (GCP) é o serviço de computação em nuvem do Google e foi utilizado para fazer a hospedagem (deployment) da aplicação. |
 | <img width="50 rem" src="../Projeto-II/Images/azure-devops.png" /> | O Azure DevOps é um servidor da Microsoft que fornece as ferramentas necessárias para fazer o controle de versão, a geração de relatórios, o gerenciamento de requisitos e de projetos, as compilações automatizadas e os testes necessários no desenvolvimento de softwares. |
@@ -91,7 +101,10 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 ## Contribuições pessoais
 
-<p align="justify"></p>
+<p align="justify">Nesse semestre tive a oportunidade de deixar de lado os papeis de gestão de projetos (Product Owner e Scrum Master) para poder focar no desenvolvimento front-end desde a primeira sprint. Estive diretamente envolvida com as páginas de edição de chamados, de login do usuário, de grupos e de log das avaliações, além de poder apoiar em alguns ajustes e acompanhar algumas integrações entre o front-end e o back-end, entendendo melhor como tornar as telas funcionais.<br>
+<br>
+Essa experiência me permitiu muita troca com os demais componentes do grupo e muito aprendizado em termos de desenvolvimento de sistemas. Por ter migrado para um grupo novo com o qual ainda não tinha atuado diretamente, também pude aprender novas formas de trabalhar e de me comunicar.
+</p>
 
 #### Hard Skills
 
@@ -107,7 +120,7 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 6. **Controle de Versão (Git/GitHub):** Sei fazer com autonomia;
 
-7. **Gerenciamento de Banco de Dados SQL** Sei fazer com auxílio de consultas;
+7. **Gerenciamento de Banco de Dados SQL:** Sei fazer com auxílio de consultas;
 
 8. **Criação de Protótipos Navegáveis com Figma:** Sei fazer com autonomia;
 
@@ -117,7 +130,13 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 #### Soft Skills  
 
+1. **Comunicação:** <p align="justify">Não só durante as reuniões de planejamento e de revisão das sprints, mas também ao longo do desenvolvimento do projeto pude aprimorar minha habilidade de expressar ideias de forma clara e eficaz, além de ouvir ativamente e compreender diversas ideias diferentes.</p>
 
+2. **Trabalho em Equipe:** <p align="justify">Ao longo das sprints, encontrei bastante espaço para colaborar com os demais membros do grupo, compartilhar responsabilidades e contribuir para objetivos comuns.</p>
+
+3. **Adaptabilidade:** <p align="justify">Com a mudança de grupo, tive a oportunidade de trabalhar a minha capacidade de adaptação diante de novos cenários, novas pessoas e novas ideias, o que me permitiu maior amadurecimento pessoal e profissional.</p>
+
+4. **Criatividade:** <p align="justify">Por estar mais envolvida com o desenvolvimento, pude contribuir com novas ideias e trabalhar a possibilidade de abordar problemas de maneira inovadora.</p>
 
 
 → [Voltar ao topo](#topo)
