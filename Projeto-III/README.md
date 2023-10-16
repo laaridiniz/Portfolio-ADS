@@ -27,6 +27,25 @@ Para alcançar esse resultado, a equipe utilizou a metodologia Scrum, conhecido 
 ## Demonstração
 
 
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/1081bb00-622e-4d69-86cc-f2cf5c32849e
+
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/7a773023-5ef9-47eb-aa36-3485a3abc875
+
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/75267689-8b3a-4b5e-ab8e-0734f625edd2
+
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/ee449ff4-b44a-4837-a981-07d80c5a4633
+
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/9fdc1c35-bc1a-4374-88e4-47b6c673abdd
+
+
 
 Para acessar o GitHub da equipe TechDrivers, clique [aqui](https://github.com/TechDriversFatec/TechDrivers).
 
