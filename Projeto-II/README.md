@@ -34,6 +34,8 @@ https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/b25cc706-daac-4910-8
 
 Para acessar o GitHub da equipe TechDrivers, clique [aqui](https://github.com/TechDriversFatec/TechDrivers).
 
+A documentação da aplicação pode ser acessada clicando [aqui](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Projeto-II/Documenta%C3%A7%C3%A3o%20-%20Pro4Tech.pdf).
+
 </div>
 
 <div id="requirements">
