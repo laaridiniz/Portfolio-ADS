@@ -124,13 +124,13 @@ Essa experiência me permitiu muita troca com os demais componentes do grupo e m
 
 7. **Gerenciamento de Banco de Dados SQL:** Sei fazer com auxílio de consultas;
 
-8. **Criação de Protótipos Navegáveis com Figma:** Sei fazer com autonomia;
+8. **Criação de Protótipos Navegáveis (Figma):** Sei fazer com autonomia;
 
 9. **Conceitos de arquitetura de software:** Sei fazer com ajuda;
 
 10. **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;
 
-11. **Deployment:** Sei fazer com ajuda.
+11. **Deployment (GCP):** Sei fazer com ajuda.
 
 #### Soft Skills  
 
