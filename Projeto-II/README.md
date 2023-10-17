@@ -24,7 +24,11 @@ Essa aplicação foi implementada por meio da linguagem Java (Desktop), a partir
 
 <div id="demo">
 
-## Demonstração
+## Resultado final
+
+
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/b25cc706-daac-4910-851b-66302183d7f8
 
 
 
@@ -85,11 +89,13 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 1. **Programação em Java:** Sei fazer com ajuda;
 
-2. **Modelagem de dados** Sei fazer com ajuda;
+2. **Modelagem de dados:** Sei fazer com ajuda;
 
-3. **Controle de Versão (Git/GitHub):** Sei fazer com auxílio de consultas;
+3. **Controle de Versão (Git/GitHub):** Sei fazer com autonomia;
 
-4. **Manuseio de banco de dados SQL** Sei fazer com auxílio de consultas.
+4. **Manuseio de banco de dados SQL:** Sei fazer com auxílio de consultas;
+
+5. **Criação de interface gráfica com Java Swing:** Sei fazer com auxílio de consultas.
 
 #### Soft Skills  
 
