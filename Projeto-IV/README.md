@@ -40,6 +40,8 @@ https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/039ce40f-3eef-41ab-9
 
 Para acessar o GitHub da equipe Peônia, clique [aqui](https://github.com/peonia-api).
 
+A documentação da aplicação pode ser acessada clicando [aqui](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Projeto-IV/Documenta%C3%A7%C3%A3o%20-%20Ionic%20Health.pdf).
+
 </div>
 
 <div id="requirements">
