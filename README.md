@@ -48,10 +48,10 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  |   API  |    Descrição    |
  | :------:      | :------: |
  | [1° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-I)   | Website para armazenar os projetos desenvolvidos pelos alunos da FATEC |
- | [2° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-II)  | Aplicação desktop para centralizar troca de informações entre empresa e clientes | 
- | [3° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-III) | Aplicação web para cálculo de distância de pouso de aeronaves | 
- | [4° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-IV)  | Plataforma web para gerenciamento de chamados internos | 
- | 5° Semestre   | Aplicação mobile para cadastro de equipamentos públicos em campo |
+ | [2° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-II)  | Aplicação desktop para centralizar troca de informações entre empresa e clientes (Pro4Tech) | 
+ | [3° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-III) | Aplicação web para cálculo de distância de pouso de aeronaves (Embraer) | 
+ | [4° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-IV)  | Plataforma web para gerenciamento de chamados internos (Ionic Health) | 
+ | 5° Semestre | Aplicação mobile para cadastro de equipamentos públicos em campo (Imagem Geosistemas) |
 
 > _Clique em uma das opções acima para ver mais detalhes sobre os projetos desenvolvidos._
  
