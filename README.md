@@ -38,7 +38,7 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20HTML%20e%20CSS_%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags%20-%20Alura.pdf) | Alura |
  | [HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20HTML%20e%20CSS_%20Classes%2C%20posicionamento%20e%20Flexbox%20-%20Alura.pdf) | Alura |
 
-> _Clique em uma das opções acima para ter acesso aos certificados._
+> _Clique nos links acima para ter acesso aos certificados._
  
  ##
 
@@ -62,18 +62,19 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
 <h3 align="left">📑 	Conhecimentos Técnicos </h3> 
  <!-- Back-end / Front-end / DevOps -->
    <h4 align="left">Back-end</h4>  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank">
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" target="_blank">
+ <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
 
    <h4 align="left">Front-end</h4>  
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" target="_blank">
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
 
    <h4 align="left">Database</h4>  
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
@@ -83,6 +84,14 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
    <h4 align="left">Design</h4>  
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" target="_blank">
+
+ <h4 align="left">DevOps</h4>
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+ <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036">
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
  <h4 align="left">Sistemas Operacionais</h4>
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -97,17 +106,15 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <h4 align="left">Cloud</h4>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 
 <h4 align="left">Outros</h4>
 <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036">
 
  ##
  
