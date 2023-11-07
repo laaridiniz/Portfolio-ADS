@@ -37,6 +37,8 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  | [Arquitetura de computadores: por trás de como seu programa funciona](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20Arquitetura%20de%20computadores_%20por%20tr%C3%A1s%20de%20como%20seu%20programa%20funciona%20-%20Alura.pdf) | Alura |
  | [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20HTML%20e%20CSS_%20ambientes%20de%20desenvolvimento%2C%20estrutura%20de%20arquivos%20e%20tags%20-%20Alura.pdf) | Alura |
  | [HTML e CSS: Classes, posicionamento e Flexbox](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Larissa%20Aparecida%20Diniz%20Silva%20-%20Curso%20HTML%20e%20CSS_%20Classes%2C%20posicionamento%20e%20Flexbox%20-%20Alura.pdf) | Alura |
+ | [Introduction to MongoDB](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/Introduction-to-MongoDB.pdf) | MongoDB Inc |
+ | [MongoDB Python Developer Path](https://github.com/laaridiniz/Portfolio-ADS/blob/main/Certificados/MongoDB-Python-Developer-Path.pdf) | MongoDB Inc |
 
 > _Clique nos links acima para ter acesso aos certificados._
  
