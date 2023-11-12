@@ -73,12 +73,14 @@ b) Não funcionais
 
 ## Tecnologias utilizadas
 
-Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
-
-| Tecnologia | Aplicação |
-|:--------:|:-----------:|
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> | HTML é uma linguagem de marcação que foi aplicada na estruturação e exibição do conteúdo na web. |
-| <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  | CSS é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foi utilizado para a estilização do sistema. |
+<details>
+  <summary>Para desenvolver este projeto foram utilizadas as seguintes ferramentas: </summary>
+  <br>
+  
+  | Tecnologia | Aplicação |
+  |:--------:|:-----------:|
+  | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> | HTML é uma linguagem de marcação que foi aplicada na estruturação e exibição do conteúdo na web. |
+  | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  | CSS é uma linguagem de estilo utilizada para controlar a apresentação e o layout de documentos HTML. Foi utilizado para a estilização do sistema. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> | JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. A partir dela, foi possível criar conteúdo com atualização dinâmica, múltimídias, imagens animadas, entre outros. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> | React Native é uma biblioteca front-end JavaScript criada pelo Facebook amplamente usada para desenvolver aplicativos para os sistemas Android e iOS de forma nativa. |
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> | TypeScript é uma linguagem de programação que adiciona recursos avançados ao JavaScript, como a tipagem estática e interfaces. Com ela, fica mais fácil detectar e prevenir erros durante a fase de desenvolvimento. |
@@ -98,8 +100,8 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /> | O Slack é um software de comunicação de equipes com suporte a canais, conversas privadas e integração com serviços externos que foi utilizado para comunicação com o cliente. |
 | <img width="50 rem" src="../Imagens/microsoft-teams.png" /> | O Microsoft Teams é uma plataforma unificada que conta com ferramentas de bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho. Foi utilizada para comunicação e colaboração entre os membros da equipe. |
 
-
-→ [Voltar ao topo](#topo)
+  <br>
+</details>
 
 </div>
 
@@ -109,45 +111,62 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 <p align="justify"></p>
 
-#### Hard Skills
+<details>
+  <summary>Hard Skills</summary>
+  <br>
 
-1. **Programação em TypeScript:** Sei fazer com ajuda;
+  1. **Programação em TypeScript:** Sei fazer com ajuda;
+  
+  2. **Desenvolvimento Mobile em React Native:** Sei fazer com ajuda;
+  
+  3. **Uso de tags HTML:** Sei fazer com autonomia;
+  
+  4. **Aplicação de recursos CSS:** Sei fazer com auxílio de consultas;
+  
+  5. **Desenvolvimento back-end com NodeJS:** Sei fazer com ajuda;
+  
+  6. **Controle de Versão (Git/GitHub):** Sei fazer com autonomia;
+  
+  7. **Gerenciamento de Banco de Dados SQL (PostgreSQL):** Sei fazer com auxílio de consultas;
+  
+  8. **Gerenciamento de Banco de Dados NoSQL (MongoDB):** Sei fazer com ajuda;
+  
+  9. **Criação de Protótipos Navegáveis (Figma):** Sei fazer com autonomia;
+  
+  10. **Conceitos de arquitetura de software:** Sei fazer com ajuda;
+  
+  11. **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;
+  
+  12. **Hospedagem de banco de dados em cloud (Azure):** Sei fazer com ajuda;
+  
+  13. **Conteinerização (Docker):** Sei fazer com ajuda;
+  
+  14. **Roteamento de URL e renderização de página (Flask):** Sei fazer com ajuda;
+  
+  15. **Desenvolvimento back-end com Python:** Sei fazer com ajuda.
 
-2. **Desenvolvimento Mobile em React Native:** Sei fazer com ajuda;
+<br>
+</details>
 
-3. **Uso de tags HTML:** Sei fazer com autonomia;
+  
+<details>
+  <summary>Soft Skills </summary>
+  <br>
 
-4. **Aplicação de recursos CSS:** Sei fazer com auxílio de consultas;
-
-5. **Desenvolvimento back-end com NodeJS:** Sei fazer com ajuda;
-
-6. **Controle de Versão (Git/GitHub):** Sei fazer com autonomia;
-
-7. **Gerenciamento de Banco de Dados SQL (PostgreSQL):** Sei fazer com auxílio de consultas;
-
-8. **Gerenciamento de Banco de Dados NoSQL (MongoDB):** Sei fazer com ajuda;
-
-9. **Criação de Protótipos Navegáveis (Figma):** Sei fazer com autonomia;
-
-10. **Conceitos de arquitetura de software:** Sei fazer com ajuda;
-
-11. **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;
-
-12. **Hospedagem de banco de dados em cloud (Azure):** Sei fazer com ajuda;
-
-13. **Conteinerização (Docker):** Sei fazer com ajuda;
-
-14. **Roteamento de URL e renderização de página (Flask):** Sei fazer com ajuda;
-
-15. **Desenvolvimento back-end com Python:** Sei fazer com ajuda.
-
-#### Soft Skills  
-
-[Em breve]
+  <br>
+  </details>
 
 → [Voltar ao topo](#topo)
 
 </div>
 
+<div id="dev">
+<br>
+  
+> Larissa Diniz, 2023 :star2: <br>
+> ❤️ [Github](https://github.com/laaridiniz)<br>
+> 💙 [Linkedin](https://www.linkedin.com/in/larissa-diniz-dev/)<br>
+
+</div>
 
 
