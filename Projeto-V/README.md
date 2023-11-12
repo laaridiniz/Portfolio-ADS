@@ -152,9 +152,17 @@ Essa experiência me permitiu muita troca com os demais componentes do grupo e m
 
   
 <details>
-  <summary>Soft Skills </summary>
+  <summary>Soft Skills</summary>
   <br>
 
+  1. **Comunicação:** <p align="justify">Não só durante as reuniões de planejamento e de revisão das sprints, mas também ao longo do desenvolvimento do projeto pude aprimorar minha habilidade de expressar ideias de forma clara e eficaz, além de ouvir ativamente e compreender diversas ideias diferentes.</p>
+
+  2. **Trabalho em Equipe:** <p align="justify">Ao longo das sprints, encontrei bastante espaço para colaborar com os demais membros do grupo, compartilhar responsabilidades e contribuir para objetivos comuns.</p>
+
+  3. **Curiosidade e autodesenvolvimento:** <p align="justify">Pela primeira vez assumi uma atividade voltada totalmente para o back-end. Consegui entregar a estrutura das controllers e me envolver mais com a integração do front-end com o back-end, especificamente na tela de perfil do usuário e de detalhes de ativos, e nas ferramentas de administrador.</p>
+
+  4. **Criatividade:** <p align="justify">Estive alocada nas tarefas específicas de desenvolvimento front-end e back-end, com isso, tive a oportunidade de contribuir com novas ideias e de abordar problemas de maneira inovadora.</p>
+  
   <br>
   </details>
 
