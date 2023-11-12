@@ -111,7 +111,35 @@ Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 
 #### Hard Skills
 
-[Em breve]
+1. **Programação em TypeScript:** Sei fazer com ajuda;
+
+2. **Desenvolvimento Mobile em React Native:** Sei fazer com ajuda;
+
+3. **Uso de tags HTML:** Sei fazer com autonomia;
+
+4. **Aplicação de recursos CSS:** Sei fazer com auxílio de consultas;
+
+5. **Desenvolvimento back-end com NodeJS:** Sei fazer com ajuda;
+
+6. **Controle de Versão (Git/GitHub):** Sei fazer com autonomia;
+
+7. **Gerenciamento de Banco de Dados SQL (PostgreSQL):** Sei fazer com auxílio de consultas;
+
+8. **Gerenciamento de Banco de Dados NoSQL (MongoDB):** Sei fazer com ajuda;
+
+9. **Criação de Protótipos Navegáveis (Figma):** Sei fazer com autonomia;
+
+10. **Conceitos de arquitetura de software:** Sei fazer com ajuda;
+
+11. **Conceitos aplicados de UX Designer:** Sei fazer com autonomia;
+
+12. **Hospedagem de banco de dados em cloud (Azure):** Sei fazer com ajuda;
+
+13. **Conteinerização (Docker):** Sei fazer com ajuda;
+
+14. **Roteamento de URL e renderização de página (Flask):** Sei fazer com ajuda;
+
+15. **Desenvolvimento back-end com Python:** Sei fazer com ajuda.
 
 #### Soft Skills  
 
