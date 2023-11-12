@@ -109,7 +109,9 @@ b) Não funcionais
 
 ## Contribuições pessoais
 
-<p align="justify"></p>
+<p align="justify">Nesse semestre tive a oportunidade de desempenhar funções mais voltadas para o desenvolvimento banck-end e front-end. Estive diretamente envolvida com a construção das crontrollers, além da estruturação das páginas de detalhes de ativos, de perfil do usuário e implementação dos recursos do usuário administrador. Também pude apoiar em alguns ajustes e testes de adaptação de luminosidade das telas. Ainda acompanhei as integrações entre o front-end e o back-end das telas em que estive diretamente envolvida com o desenvolvimento (detalhes de ativos, perfil do usuário, ferramentas de administrador), entendendo melhor como tornar as telas funcionais.
+
+Essa experiência me permitiu muita troca com os demais componentes do grupo e muito aprendizado em termos de desenvolvimento de sistemas. Nesse projeto também tive a oportunidade de ter o primeiro contato com o desenvolvimento mobile e ferramentas como Android Studio, Expo e React Native.</p>
 
 <details>
   <summary>Hard Skills</summary>
