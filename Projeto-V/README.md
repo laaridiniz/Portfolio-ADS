@@ -12,7 +12,7 @@
 
 <div id="about">
 
-## Sobre o projeto
+## 🔖 Sobre o projeto
 
 <p align="justify">O projeto teve como objetivo o desenvolvimento de um aplicativo mobile que permitisse o gerenciamento (online e offline) de equipamentos públicos em campo (denominados ativos) para a empresa Imagem Geosistemas. 
 A partir desse aplicativo, a empresa poderia fazer a gestão desses equipamentos (consultar, atualizar, desativar e cadastrar), permitindo a conexão com sensores e comunicação a serviços externos e 
@@ -32,15 +32,42 @@ e ter o cadastro destes ativos atualizados em campo em tempo real é primordial 
 
 <div id="demo">
 
-## Resultado final
+## 💻 Demonstração
 
-[Em breve]
+<details>
+  <summary>Clique aqui para visualizar a aplicação em funcionamento</summary>
+
+  - Cadastro de usuário:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Cadastro_Usu%C3%A1rio.gif)
+
+- Login e operação:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Login_Opera%C3%A7%C3%A3o.gif)
+
+- Redefinição de senha (neste caso já havia sido feito o disparo do e-mail para gerar o token):
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Redefinir_Senha.gif)
+
+- Login do usuário Admin e página para gestão de cadastro de usuários:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Login-do-Admin-e-aprovação-de-cadastros.gif)
+
+- Carrossel de Imagens:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Carrossel-de-Imagens.gif)
+
+- Novo sistema de listagem de equipamentos e filtros (ativos, desativados e 10km):
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Nova-Listagem-Equipamentos.gif)
+
+- Novos elementos de mapa e listagem de equipamentos:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Novos-Elementos-de-Mapa-e-Listagem-de-Equipamentos.gif)
+
+- Alteração de cor e estilização no Meu Perfil:
+![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Alteração-de-Cor-e-Estilo.gif)
+  
+</details>
 
 </div>
 
 <div id="requirements">
 
-## Requisitos
+## 📑 Requisitos
 
 a) Funcionais
 
@@ -71,10 +98,10 @@ b) Não funcionais
 
 <div id="tech">
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 <details>
-  <summary>Para desenvolver este projeto foram utilizadas as seguintes ferramentas: </summary>
+  <summary>Clique aqui para visualizar quais ferramentas foram utilizadas para desenvolver este projeto</summary>
   <br>
   
   | Tecnologia | Aplicação |
@@ -107,10 +134,10 @@ b) Não funcionais
 
 <div id="dev">
 
-## Contribuições pessoais
+## ⌨️ Contribuições pessoais
 
 <p align="justify">Nesse semestre tive a oportunidade de desempenhar funções mais voltadas para o desenvolvimento banck-end e front-end. Estive diretamente envolvida com a construção das crontrollers, além da estruturação das páginas de detalhes de ativos, de perfil do usuário e implementação dos recursos do usuário administrador. Também pude apoiar em alguns ajustes e testes de adaptação de luminosidade das telas. Ainda acompanhei as integrações entre o front-end e o back-end das telas em que estive diretamente envolvida com o desenvolvimento (detalhes de ativos, perfil do usuário, ferramentas de administrador), entendendo melhor como tornar as telas funcionais.
-
+<br><br>
 Essa experiência me permitiu muita troca com os demais componentes do grupo e muito aprendizado em termos de desenvolvimento de sistemas. Nesse projeto também tive a oportunidade de ter o primeiro contato com o desenvolvimento mobile e ferramentas como Android Studio, Expo e React Native.</p>
 
 <details>
