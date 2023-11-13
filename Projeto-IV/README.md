@@ -12,7 +12,7 @@
 
 <div id="about">
 
-## Sobre o projeto
+## 🔖 Sobre o projeto
 
 <p align="justify">O projeto se resumiu no desenvolvimento de uma plataforma de gerenciamento de chamados internos para a empresa Ionic Health. Essa plataforma deveria ser capaz de receber demandas de correção urgente (hotfix) e de implementação de novas funcionalidades (feature), direcionando-as para as equipes responsáveis. Além disso, a aplicação também deveria permitir a aprovação de novas funcionalidades por um comitê de avaliação, de maneira que o cliente pudesse melhorar a comunicação interna e a colaboração entre suas equipes, bem como monitorar o desempenho do processo de desenvolvimento de produtos.
 <br><br>
@@ -24,19 +24,26 @@ Para alcançar esse resultado, a equipe utilizou a metodologia Scrum, conhecido 
 
 <div id="demo">
 
-## Resultado final
+## 💻 Resultado final
 
-Para visualizar o vídeo que ilustra o fluxo do usuário padrão, clique [aqui](https://clipchamp.com/watch/8KruCz3Wpls).
-
-Para acessar o vídeo que demonstra o fluxo do usuário Diretor, clique [aqui](https://clipchamp.com/watch/tK9AXBtIvTg?utm_source=share&utm_medium=social&utm_campaign=watch)
-
-
-https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/8f2ea4a7-45aa-4207-9fa5-5028e040a064
+<details>
+  <summary>Clique aqui para visualizar a aplicação final em execução</summary>
 
 
+  Para visualizar o vídeo que ilustra o fluxo do usuário padrão, clique [aqui](https://clipchamp.com/watch/8KruCz3Wpls).
 
-https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/039ce40f-3eef-41ab-9ba6-c479d54748d5
 
+  Para acessar o vídeo que demonstra o fluxo do usuário Diretor, clique [aqui](https://clipchamp.com/watch/tK9AXBtIvTg?utm_source=share&utm_medium=social&utm_campaign=watch)
+  
+  
+  https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/8f2ea4a7-45aa-4207-9fa5-5028e040a064
+  
+  
+  
+  https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/039ce40f-3eef-41ab-9ba6-c479d54748d5
+
+
+</details>
 
 Para acessar o GitHub da equipe Peônia, clique [aqui](https://github.com/peonia-api).
 
@@ -46,7 +53,7 @@ A documentação da aplicação pode ser acessada clicando [aqui](https://github
 
 <div id="requirements">
 
-## Requisitos
+## 📑 Requisitos
 
 a) Funcionais
 
@@ -70,7 +77,7 @@ b) Não funcionais
 
 <div id="tech">
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 <details>
   <summary>Para desenvolver este projeto foram utilizadas as seguintes ferramentas: </summary>
@@ -103,7 +110,7 @@ b) Não funcionais
 
 <div id="dev">
 
-## Contribuições pessoais
+## ⌨️ Contribuições pessoais
 
 <p align="justify">Nesse semestre tive a oportunidade de deixar de lado os papeis de gestão de projetos (Product Owner e Scrum Master) para poder focar no desenvolvimento front-end desde a primeira sprint. Estive diretamente envolvida com as páginas de edição de chamados, de login do usuário, de grupos e de log das avaliações, além de poder apoiar em alguns ajustes e acompanhar algumas integrações entre o front-end e o back-end, entendendo melhor como tornar as telas funcionais.<br>
 <br>
