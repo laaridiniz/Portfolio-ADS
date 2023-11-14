@@ -80,9 +80,8 @@ b) Não funcionais
 ## 🛠️ Tecnologias utilizadas
 
 <details>
-  <summary>Para desenvolver este projeto foram utilizadas as seguintes ferramentas: </summary>
+  <summary>Clique aqui para visualizar mais detalhes sobre as ferramentas utilizadas no desenvolvimento deste projeto</summary>
   <br>
-
 
   | Tecnologia | Aplicação |
   |:--------:|:-----------:|
@@ -104,7 +103,6 @@ b) Não funcionais
   | <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /> | O Slack é um software de comunicação de equipes com suporte a canais, conversas privadas e integração com serviços externos que foi utilizado para comunicação com o cliente. |
   | <img width="50 rem" src="../Imagens/microsoft-teams.png" /> | O Microsoft Teams é uma plataforma unificada que conta com ferramentas de bate-papo, videoconferências, armazenamento de arquivos e integração de aplicativos no local de trabalho. Foi utilizada para comunicação e colaboração entre os membros da equipe. |
 </details>
-<br>
 
 </div>
 
