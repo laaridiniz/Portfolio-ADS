@@ -12,7 +12,7 @@
 
 <div id="about">
 
-## Sobre o projeto
+## 🔖 Sobre o projeto
 
 <p align="justify">O projeto teve como objetivo criar uma mensageria, ou seja, uma aplicação que centralizasse toda troca de informação realizada entre a empresa e o cliente. Isso porque a principal necessidade da empresa parceira era poder organizar todas as informações recebidas dos seus clientes, principalmente aquelas que influenciariam diretamente nos serviços prestados.
 <br><br>
@@ -24,11 +24,15 @@ Essa aplicação foi implementada por meio da linguagem Java (Desktop), a partir
 
 <div id="demo">
 
-## Resultado final
+## 💻 Resultado final
 
+<details>
+  <summary>Clique aqui para visualizar a aplicação entregue</summary>
 
-https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/b25cc706-daac-4910-851b-66302183d7f8
+  https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/b25cc706-daac-4910-851b-66302183d7f8
 
+  
+</details>
 
 
 Para acessar o GitHub da equipe TechDrivers, clique [aqui](https://github.com/TechDriversFatec/TechDrivers).
@@ -39,7 +43,7 @@ A documentação da aplicação pode ser acessada clicando [aqui](https://github
 
 <div id="requirements">
 
-## Requisitos
+## 📑 Requisitos
 
 a) Funcionais
 
@@ -62,7 +66,7 @@ b) Não funcionais
 
 <div id="tech">
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 <details>
   <summary>Para desenvolver este projeto foram utilizadas as seguintes ferramentas:</summary>
@@ -85,7 +89,7 @@ b) Não funcionais
 
 <div id="dev">
 
-## Contribuições pessoais
+## ⌨️ Contribuições pessoais
 
 <p align="justify">Durante o desenvolvimento desse projeto, atuei como Product Owner, desempenhando um papel mais voltado para o alinhamento entre os interesses do cliente, definição das funcionalidades do produto e priorização dos itens do Backlog. Na primeira sprint minha atuação foi focada na criação do Backlog e das User Stories, além da validação dos requisitos e entregas com o cliente. Já na segunda e terceira sprint, tive a oportunidade de atuar ainda no desenvolvimento back-end, implementando algumas melhorias no sistema. Ao longo do tempo, contribui também para a documentação do projeto antes da entrega final.</p>
 
