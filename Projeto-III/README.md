@@ -12,7 +12,7 @@
 
 <div id="about">
 
-## Sobre o projeto
+## 🔖 Sobre o projeto
 
 <p align="justify">O projeto teve como objetivo criar uma interface para que os pilotos de aeronaves pudessem, a partir dos parâmetros considerados, calcular a distância necessária para realizar o pouso de forma segura. Para que fosse possível realizar o cálculo em questão, a empresa parceira disponibilizou uma tabela para que todos os fatores fossem levados em consideração. Esses fatores envolviam modelo, motor, certificação, peso e flap de pouso da aeronave, altitude do aeroporto, temperatura, vento, inclinação da pista, uso de reversor, aditivo de velocidade, acúmulo de gelo, condição de pista e nível de aplicação de frenagem. Além disso, a empresa parceira determinou que a aplicação fosse compatível com tablet, tendo em vista que é o equipamento utilizado pelos pilotos à bordo das aeronaves.
 <br><br>
@@ -24,7 +24,7 @@ Para alcançar esse resultado, a equipe utilizou a metodologia Scrum, conhecido 
 
 <div id="demo">
 
-## Resultado final
+## 💻 Resultado final
 
 <details>
   <summary>Clique aqui para visualizar a aplicação em funcionamento:</summary>
@@ -58,7 +58,7 @@ A documentação da aplicação pode ser acessada clicando [aqui](https://github
 
 <div id="requirements">
 
-## Requisitos
+## 📑 Requisitos
 
 a) Funcionais
 
@@ -80,7 +80,7 @@ b) Não funcionais
 
 <div id="tech">
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 <details>
   <summary>Para desenvolver este projeto foram utilizadas as seguintes ferramentas: </summary>
@@ -111,7 +111,7 @@ b) Não funcionais
 
 <div id="dev">
 
-## Contribuições pessoais
+## ⌨️ Contribuições pessoais
 
 <p align="justify">Ao longo do desenvolvimento desse projeto, tive a oportunidade de exercer a função de Scrum Master. Dentro da metodologia Scrum, o Scrum Master é o responsável por assegurar que os processos atendam aos objetivos de todas as partes envolvidas. Por esse motivo, foi indispensável trabalhar competências de comunicação assertiva, resolução de conflitos e relacionamento interpessoal para guiar o restante da equipe em busca dos objetivos iniciais.<br>
 <br>
