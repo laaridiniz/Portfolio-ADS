@@ -12,7 +12,7 @@
 
 <div id="about">
 
-## Sobre o projeto
+## 🔖 Sobre o projeto
 
 <p align="justify">A finalidade do projeto foi automatizar a clonagem de repositórios de trabalhos de API anteriores e futuros desenvolvidos pelos alunos da FATEC. Com isso, além de conferir domínio desses repositórios à instituição por meio do GitHub, esses projetos passaram a ser armazenados e disponibilizados ao público em geral por meio de uma página web administrada unicamente por profissionais ligados à FATEC e autorizados para tanto.
 <br><br>
@@ -26,7 +26,7 @@ Para criar o script em questão foram utilizadas as bibliotecas Requests, Beauti
 
 <div id="demo">
 
-## Demonstração
+## 💻 Demonstração
 
 <details>
   <summary>Clique aqui para visualizar a aplicação em funcionamento</summary>
@@ -58,7 +58,7 @@ Para acessar o GitHub da equipe TechDrivers, clique [aqui](https://github.com/Te
 
 <div id="requirements">
 
-## Requisitos
+## 📑 Requisitos
 
 a) Funcionais
 
@@ -76,10 +76,10 @@ b) Não funcionais
 
 <div id="tech">
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 <details>
-  <summary>Para desenvolver este projeto foram utilizadas as seguintes ferramentas:</summary>
+  <summary>Clique aqui para visualizar mais detalhes sobre quais ferramentas foram empregadas no desenvolvimento deste projeto</summary>
   <br>
 
   | Tecnologia | Aplicação |
@@ -102,7 +102,7 @@ b) Não funcionais
 
 <div id="dev">
 
-## Contribuições pessoais
+## ⌨️ Contribuições pessoais
 
 <p align="justify">Para o desenvolvimento desse projeto, a equipe foi dividida em dois grupos: o primeiro responsável pelo front-end e o segundo pelo back-end. Por ter mais afinidade com o desenvolvimento front-end, fiz parte do primeiro grupo. Dessa forma, minha atuação girou em torno das questões relacionadas à parte visual das páginas, apoiando desde a prototipagem até a estruturação das páginas e respectiva estilização. Além disso, contribui para o levantamento dos requisitos necessários para a validação das entregas, bem como para a documentação do projeto antes da entrega final.</p>
 
