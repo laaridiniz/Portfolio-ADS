@@ -21,9 +21,7 @@ que analisa as imagens gravadas pelas câmeras de segurança e contabiliza a qua
 Para alcançar esse resultado, a equipe utilizou a metodologia Scrum, conhecido framework ágil utilizado na gestão de projetos baseado em conceitos como ciclos de feedback, melhoria contínua e empirismo. 
 A equipe também teve a oportunidade de aplicar tecnologias atuais e em alta no mercado profissional, como Vue.js com TypeScript para estruturar os recursos visuais, Python para treinar a inteligência artificial e Spring Boot (Java) aplicar a lógica de programação.
 <br><br>
-As funcionalidades implementadas nessa aplicação visam atender uma das principais necessidades da indústria petrolífera e embarcações de exploração de petróleo, que, por contarem com locais de acesso restrito (Red Zones), 
-devem contar com meios de monitorar a quantidade de acessos a esses locais por meio de câmeras de segurança. Essas imagens são monitoradas por guardas e todos os registros de entrada e saída desses locais eram lançados manualmente em planilhas.
-Com essa aplicação, esse controle passou a ser feito de maneira automatizada em razão do modelo de machine learning implementado.
+As funcionalidades implementadas nessa aplicação visam atender uma das principais necessidades da indústria petrolífera e embarcações de exploração de petróleo, que, por contarem com locais de acesso restrito (Red Zones), devem dispor de meios para monitorar a quantidade de acessos a esses locais por meio de câmeras de segurança. Essas imagens são monitoradas por guardas e todos os registros de entrada e saída desses locais eram lançados manualmente em planilhas. Com essa aplicação, esse controle passou a ser feito de maneira automatizada em razão do modelo de machine learning implementado.
 </p>
 
 → [Voltar ao topo](#topo)
@@ -35,13 +33,39 @@ Com essa aplicação, esse controle passou a ser feito de maneira automatizada e
 ## 💻 Demonstração
 
 <details>
-  <summary>Em breve</summary>
+  <summary>Clique aqui para visualizar a aplicação em funcionamento</summary>
 
-  - Cadastro de usuário:
-![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Cadastro_Usu%C3%A1rio.gif)
+  <br>
 
-- Login e operação:
-![](https://github.com/peonia-api/API_5_Semestre/blob/main/videos/Login_Opera%C3%A7%C3%A3o.gif)
+  - Login:
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/783aa5b8-8b3d-4e02-acc2-b8afab3a5ba2
+
+
+  - Exportar dados:
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/19e627b7-52fa-4e27-8468-9775d549b8dd
+
+
+  - Gestão de usuários:
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/cd09f187-3334-47cf-b723-d953ae81b4bd
+
+
+  - Adicionar usuário:
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/ade470ff-985c-4489-8c9a-41dd188602f2
+
+
+  - Painel:
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/159b030a-8b2a-4047-ba4d-0300400f34aa
+
+
+  - IA:
+
+https://github.com/laaridiniz/Portfolio-ADS/assets/86115352/cb609b12-6597-490d-9155-2f22dbe3506c
+
 
   
 </details>
