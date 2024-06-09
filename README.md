@@ -5,12 +5,12 @@
  <div style="display: inline_block">
     <img align="right" src="Imagens/lari.jpeg" height="350" width="250">
   <div>
-Sou aluna do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, e estou cursando o 5º semestre.
+Sou aluna do curso de Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal, e estou cursando o 6º semestre.
 Gosto muito de experimentar e aprender coisas novas, além de ser curiosa, ter grande facilidade de adaptação e de assimilar conhecimentos.
 <br><br>
 Iniciei minha vida profissional na área do Direito e depois de algum tempo optei por fazer uma transição de carreira para a área de tecnologia. Embora o curso superior tenha sido meu primeiro contato com o desenvolvimento propriamente dito, desde a infância sempre tive muita afinidade com tudo que tinha relação com tecnologia. Aos 4 anos de idade já amava jogar num Nintendo 64 que me fez companhia até a vida adulta, e ao longo desse caminho pude ir acompanhando o crescimento dos vídeo-games e a evolução dos jogos, além de fazer parte da geração que viu de perto os computadores, a internet e os celulares ganhando um espaço cada vez maior na vida das pessoas. 
 <br><br>
-Atualmente sou estágiaria na Imagem Geosistemas e atuo fornecendo suporte técnico relacionado às ferramentas ArcGIS nativas e customizadas, contribuindo para o sucesso dos negócios dos nossos clientes através da tecnologia. Esse ambiente me permite desenvolver minhas habilidades em infraestrutura de redes, front-end, nuvens, integrações, bancos de dados, scripts e muito mais. 
+Atualmente sou técnica de suporte na Imagem Geosistemas e atuo fornecendo suporte técnico relacionado às ferramentas ArcGIS nativas e customizadas, contribuindo para o sucesso dos negócios dos nossos clientes através da tecnologia. Esse ambiente me permite desenvolver minhas habilidades em infraestrutura de redes, front-end, nuvens, integrações, bancos de dados, scripts e muito mais. 
 <br><br>
 Este repositório tem como objetivo reunir e documentar todos os projetos de API - Aprendizagem por Projetos Integrados - desenvolvidos durante minha trajetória no curso de Tecnologia em Análise e Desenvolvimento de Sistemas. Colaborei com a construção de cinco projetos, entregues um em cada semestre desde o início da graduação. 
 <br>
@@ -53,7 +53,8 @@ Este repositório tem como objetivo reunir e documentar todos os projetos de API
  | [2° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-II)  | Aplicação desktop para centralizar troca de informações entre empresa e clientes (Pro4Tech) | 
  | [3° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-III) | Aplicação web para cálculo de distância de pouso de aeronaves (Embraer) | 
  | [4° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-IV)  | Plataforma web para gerenciamento de chamados internos (Ionic Health) | 
- | [5° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-V) | Aplicação mobile para cadastro de equipamentos públicos em campo (Imagem Geosistemas) |
+ | [5° Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-V)   | Aplicação mobile para cadastro de equipamentos públicos em campo (Imagem Geosistemas) |
+ | [6º Semestre](https://github.com/laaridiniz/Portfolio-ADS/tree/main/Projeto-VI) | Aplicação web para monitoramento automatizado de áreas restritas (Altave Intelligent Monitoring) |
 
 > _Clique em uma das opções acima para ver mais detalhes sobre os projetos desenvolvidos._
  
