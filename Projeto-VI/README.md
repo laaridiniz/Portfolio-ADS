@@ -171,7 +171,7 @@ Também tive a oportunidade de criar os designs para validação dos requisitos 
 
   2. **Visão de negócio:** <p align="justify">Como Product Owner, também precisei compreender os objetivos de negócio e como o produto se encaixava na estratégia geral da empresa. Isso me permitiu tomar decisões informadas sobre o produto e alinhar os esforços da equipe com os objetivos do parceiro acadêmico.</p>
 
-  3. **Criatividade:** <p align="justify">Pela primeira vez assumi uma atividade voltada totalmente para o back-end. Consegui entregar a estrutura das controllers e me envolver mais com a integração do front-end com o back-end, especificamente na tela de perfil do usuário e de detalhes de ativos, e nas ferramentas de administrador.</p>
+  3. **Criatividade:** <p align="justify">Fui responsável pela criação dos designs de interação para validação dos requisitos com o parceiro acadêmico e orientação da equipe de desenvolvimento front-end. Além disso, também atuei na criação da identidade visual da equipe, contribuindo mais ainda para o desenvolvimento das minhas capacidades criativas.</p>
 
   4. **Orientação para resultados:** <p align="justify">Para conseguir orientar a equipe, precisei estar focada em alcançar resultados mensuráveis e tangíveis. Para isso precisei definir metas claras e acompanhar o progresso em direção a esses objetivos.</p>
 
