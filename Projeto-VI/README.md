@@ -167,13 +167,19 @@ Também tive a oportunidade de criar os designs para validação dos requisitos 
 <details>
   <summary>Soft Skills</summary>
 
-  1. **Comunicação:** <p align="justify">Não só durante as reuniões de planejamento e de revisão das sprints, mas também ao longo do desenvolvimento do projeto pude aprimorar minha habilidade de expressar ideias de forma clara e eficaz, além de ouvir ativamente e compreender diversas ideias diferentes.</p>
+  1. **Comunicação:** <p align="justify">Desde o início do projeto, precisei trabalhar a minha capacidade de articular as necessidades do parceiro acadêmico, as prioridades do produto e os objetivos da equipe. Somente assim foi possível planejar e executar com êxito o backlog do produto e a divisão de tarefas das sprints. Como Product Owner da equipe, precisei ser capaz de comunicar visões e estratégias de produto de uma forma clara entre a equipe de desenvolvimento e o parceiro acadêmico.</p>
 
-  2. **Trabalho em Equipe:** <p align="justify">Ao longo das sprints, encontrei bastante espaço para colaborar com os demais membros do grupo, compartilhar responsabilidades e contribuir para objetivos comuns.</p>
+  2. **Visão de negócio:** <p align="justify">Como Product Owner, também precisei compreender os objetivos de negócio e como o produto se encaixava na estratégia geral da empresa. Isso me permitiu tomar decisões informadas sobre o produto e alinhar os esforços da equipe com os objetivos do parceiro acadêmico.</p>
 
-  3. **Curiosidade e autodesenvolvimento:** <p align="justify">Pela primeira vez assumi uma atividade voltada totalmente para o back-end. Consegui entregar a estrutura das controllers e me envolver mais com a integração do front-end com o back-end, especificamente na tela de perfil do usuário e de detalhes de ativos, e nas ferramentas de administrador.</p>
+  3. **Criatividade:** <p align="justify">Pela primeira vez assumi uma atividade voltada totalmente para o back-end. Consegui entregar a estrutura das controllers e me envolver mais com a integração do front-end com o back-end, especificamente na tela de perfil do usuário e de detalhes de ativos, e nas ferramentas de administrador.</p>
 
-  4. **Criatividade:** <p align="justify">Estive alocada nas tarefas específicas de desenvolvimento front-end e back-end, com isso, tive a oportunidade de contribuir com novas ideias e de abordar problemas de maneira inovadora.</p>
+  4. **Orientação para resultados:** <p align="justify">Para conseguir orientar a equipe, precisei estar focada em alcançar resultados mensuráveis e tangíveis. Para isso precisei definir metas claras e acompanhar o progresso em direção a esses objetivos.</p>
+
+  5. **Adaptabilidade:** <p align="justify">O ambiente de desenvolvimento de produtos é muitas vezes fluido e sujeito a mudanças, por esse motivo precisei ser capaz de me adaptar rapidamente a novas informações e feedbacks fornecidos pelo parceiro acadêmico ao longo das sprints.</p>
+
+  6. **Empatia:** <p align="justify">Para que o refinamento dos requisitos, precisei entender as necessidades e perspectivas do parceiro acadêmico e dos usuários, o que permitiu a tomada de decisões informadas sobre o produto. A empatia foi essencial nesse processo para compreender o impacto das decisões do produto nas pessoas envolvidas.</p>
+
+  7. **Capacidade de priorização:** <p align="justify">Durante todo o projeto, precisei ser capaz de avaliar e priorizar recursos e funcionalidades do produto com base no valor para o parceiro acadêmico. Isso exigiu que eu trabalhasse habilidades de tomada de decisão e análise crítica.</p>
   
   </details>
 
