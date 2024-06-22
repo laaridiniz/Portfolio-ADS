@@ -143,11 +143,13 @@ Assim, pude atuar durante todo o projeto como orientadora dos demais membros a f
 <details>
   <summary>Soft Skills</summary>
   
-  1. **Comunicação assertiva:** <p align="justify">Como desempenhei a função de Scrum Master, precisei trabalhar a capacidade de me expressar de maneira mais clara e direta, evitando possíveis ruídos na comunicação entre os membros da equipe.</p>
+  1. **Comunicação assertiva:** <p align="justify">Como desempenhei a função de Scrum Master, precisei trabalhar a capacidade de me expressar de maneira mais clara e direta, evitando possíveis ruídos na comunicação entre os membros da equipe, principalmente considerando que houve a entrada e a saída de pessoa na equipe ao longo das aprints.</p>
   
   2. **Resolução de conflitos:** <p align="justify">Ao longo das sprints, tivemos alguns problemas relacionados às entregas de alguns membros e foi necessário saber conduzir os conflitos gerados a partir dessas questões para não frustrar e não sobrecarregar os demais membros da equipe.</p>
   
   3. **Relacionamento interpessoal:** <p align="justify">Tivemos a entrada de um três novos membros na equipe no início do semestre e a demissão de dois deles na terceira sprint e, como Scrum Master, precisei saber gerenciar as demandas geradas pelo processo de adaptação e pelos conflitos gerados até o momento da demissão.</p>
+
+  4. **Adaptabilidade:** <p align="justify">O ambiente de desenvolvimento de produtos é muitas vezes fluido e sujeito a mudanças, por esse motivo precisei ser capaz de me adaptar rapidamente a novas informações e feedbacks fornecidos pelo parceiro acadêmico ao longo das sprints, principalmente em relação aos métodos de cálculo que o sistema deveria ser capaz de executar.</p>
 
 <br>
 </details>
